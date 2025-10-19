@@ -1,0 +1,16 @@
+AWS
+*.env
+*.pem
+*.key
+
+Python
+pycache/
+*.pyc
+
+OS
+.DS_Store
+Thumbs.db
+
+IDE
+.vscode/
+.idea/
